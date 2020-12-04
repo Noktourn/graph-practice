@@ -1,0 +1,25 @@
+{
+  "name": "graph-practice",
+  "version": "1.0.0",
+  "description": "graph data structure practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noktourn/graph-practice.git"
+  },
+  "keywords": [
+    "data",
+    "structures",
+    "graph",
+    "algorithms"
+  ],
+  "author": "Noktourn (Charaf Eddine Bounouar)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noktourn/graph-practice/issues"
+  },
+  "homepage": "https://github.com/Noktourn/graph-practice#readme"
+}
